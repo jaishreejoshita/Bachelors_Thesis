@@ -1,4 +1,4 @@
-<img align="right" width="180" height="180" src="CUJ Logo.png">
+<img align="right" width="200" height="180" src="CUJ Logo.png">
 
 # Bachelor's Project
 This is my project-oriented dissertation on **"The Shadow Economy: Shrinking or Expanding?"**
